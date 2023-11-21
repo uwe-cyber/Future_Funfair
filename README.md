@@ -1,6 +1,8 @@
-# Future Funfair - 
+![](https://uwe-cyber.github.io/images/uwe_banner.png)
 
-This repository holds the code for the ` Teaching CyBOK through Cyber Physical Systems` project run by the [University of the West of England (UWE)](https://www.uwe.ac.uk/), externally funded by the [Cyber Security Body Of Knowledge (CyBOK)](https://www.cybok.org/). 
+# Future Funfair
+
+This repository holds the code for the **Teaching CyBOK through Cyber Physical Systems** project run by the [University of the West of England (UWE)](https://www.uwe.ac.uk/), externally funded by the [Cyber Security Body Of Knowledge (CyBOK)](https://www.cybok.org/). 
 
 This project was run at the UWE [Unlock Cyber](https://www.unlockcyber.com/) event.
 
